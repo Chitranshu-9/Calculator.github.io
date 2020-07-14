@@ -1,0 +1,30 @@
+
+/* Styling for Tables */
+table{
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 20%;
+    transform: scale(2.0);
+}
+
+/* Styling Title */
+.title{
+    font-weight: bolder;
+    background-color:black;
+    color:white;
+    text-align: center;
+    
+}
+
+/* Keys */
+.num{ 
+    background-color:transparent; 
+    color: black; 
+    width:100% 
+} 
+
+/* Operator Keys */
+.operator{
+    background-color:#c04444;
+    width:100%
+}
